@@ -6,43 +6,43 @@
 	<dict>
 		<key>BDDataModel.momd/BDDataModel_1.13.1.mom</key>
 		<data>
-		TT/nu+CD9MP/kYqmFqXbSDvf+T8=
+		f1VPySeJIpAXTSuaLrSbmbAc7S4=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_1.13.2.mom</key>
 		<data>
-		ig3HqxxOYdFYlUnT4+pGhO/cKg8=
+		gyN15q6FHvfcZuOlkD3xZmEqkM0=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_1.13.mom</key>
 		<data>
-		nq7ClDXe2T1nzRccXwR6qvNLhgQ=
+		dZERkymSEg2DQUvB55ctdfc6AA0=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_1.8.1.mom</key>
 		<data>
-		c7pCtQa3iyUNslaKTYNU/0Q+7y8=
+		7fZnFywTpaRTX3n41hskqr8PXMc=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_1.9.mom</key>
 		<data>
-		dSyVJHm7WwVMzevpgoGnFdVqJsw=
+		a0o+1Vn0MsDtCVYRgM00Ir5xoVQ=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_15.2.mom</key>
 		<data>
-		ynCGPRVAWid9o/bQaZUIGLW8fHA=
+		g97i+8mA7CPAtL8vh0ef1nYJAFQ=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_15.3.2.mom</key>
 		<data>
-		ern34GrTzJF4fpumo+t/Az7X90M=
+		xaSnP+HvLD8nyE7j5LbMF2L9Fn8=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_15.6.0.mom</key>
 		<data>
-		MH0NaV4Tm4DKc5ff3XLic+2h3WA=
+		9M5MuS7x67T+kIRIC9iaLHnUB0Y=
 		</data>
 		<key>BDDataModel.momd/BDDataModel_15.6.0.omo</key>
 		<data>
-		HN4uUCcdFImmkFUFAnQnsRHrHlk=
+		7023ZKRoanZAMry0ZvhsEM2TkiM=
 		</data>
 		<key>BDDataModel.momd/VersionInfo.plist</key>
 		<data>
-		q2ZyQuGc26pGL5kEFz+1s0uv3LA=
+		N2MRExVaJfLAkl8K35d5ISa5qVw=
 		</data>
 		<key>BDPoint-DefaultConfiguration.plist</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Headers/BDLocationManager+BDPointSDK.h</key>
 		<data>
-		5u/MyUoqYPBxw1pAcDywyv/ZyRQ=
+		DlEfzM1+oyG+bRbSe8Iug5ySDZ0=
 		</data>
 		<key>Headers/BDLocationManager.h</key>
 		<data>
-		ozpMpX/w2P/NC9OgDBF4T2FBCd0=
+		PXGjum0qtQHZmRv3lOgZO2bU6Jg=
 		</data>
 		<key>Headers/BDPAuthenticationStateProvider.h</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/BDPGeoTriggeringEventDelegate.h</key>
 		<data>
-		WArLnSNMh76+zcqgov/y/5sAEfA=
+		Y7+sZJ29/XqzRoV1IR3fANWuUFw=
 		</data>
 		<key>Headers/BDPGeometry.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/BDPLocationDelegate.h</key>
 		<data>
-		aV9Scl/2ooHBVx5Ne268dNOwuZk=
+		PaF1COlC6Nn28XdYzGXriR3xkus=
 		</data>
 		<key>Headers/BDPMKShape.h</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Headers/BDPointSDK-Swift.h</key>
 		<data>
-		Q830nG9S6ERg+5GH+nHyVFqdSSg=
+		G1b0fdh4gnQ1vVTID7NEHiSg9Ys=
 		</data>
 		<key>Headers/BDPointSDK.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Headers/BDZoneEntryEvent.h</key>
 		<data>
-		KfL2c/209+IJe0RZML9ok95jQQI=
+		gCr2ngbMFojoz7D3eunZooLxsyE=
 		</data>
 		<key>Headers/BDZoneExitEvent.h</key>
 		<data>
@@ -202,79 +202,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B+xdg2TfgHcLu1KcfFJlIFZBUnU=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		6AQPLT5y1XOqS5vfsuCyOSSve9w=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		6AQPLT5y1XOqS5vfsuCyOSSve9w=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		3Ufc4NVdbICe6ktjyGo6n3vWop8=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		3Ufc4NVdbICe6ktjyGo6n3vWop8=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		k80DYyxqygcmGJrcs8IS5u20K7A=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		k80DYyxqygcmGJrcs8IS5u20K7A=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		7SslrFrIEtTwAiaDC2jObSZkFxg=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		g87eGVNbs9TPctnLRxWZr2t3leQ=
+		3dr0TKF7ox+o6Zvn+IPric1+I8g=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		7SslrFrIEtTwAiaDC2jObSZkFxg=
+		qwI7LpwxqjME0jQd1iUiLCypHx4=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		g87eGVNbs9TPctnLRxWZr2t3leQ=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<data>
-		dnChLYoRqGNpml/91Doko059gys=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<data>
-		UW0qm2WSQjcMdkDSgtgEPoxiSug=
+		xTfAKBzqhxjlFy8KXmLbHYw8DQ0=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		dnChLYoRqGNpml/91Doko059gys=
+		13einfUlpCFK6H5z6jB6pwdX+y0=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		UW0qm2WSQjcMdkDSgtgEPoxiSug=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		FLB8Sa7JX57/pE1NHTFdOJokuqI=
-		</data>
-		<key>Modules/BDPointSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		cOkgYaBf3B6BL421XhxvBX5m+F8=
+		Yom/AKa6vC1JfXF/7EqUJvWUjyc=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		FLB8Sa7JX57/pE1NHTFdOJokuqI=
+		mH1SriJA0u0iGFLXcI6E3oUS5+c=
 		</data>
 		<key>Modules/BDPointSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		cOkgYaBf3B6BL421XhxvBX5m+F8=
+		UqPOWD83dMsETXWPQavNThZ68tQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -295,110 +247,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TT/nu+CD9MP/kYqmFqXbSDvf+T8=
+			f1VPySeJIpAXTSuaLrSbmbAc7S4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uFGfL/fi51a+lW7nnBTQAE/JvahufNU4NOCJDO4qYOo=
+			jiUpPml6XcUSPMVqRNCODv48O0Vsrs6Qro9ycxukZVI=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_1.13.2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ig3HqxxOYdFYlUnT4+pGhO/cKg8=
+			gyN15q6FHvfcZuOlkD3xZmEqkM0=
 			</data>
 			<key>hash2</key>
 			<data>
-			X+EB0P0FtSU7yq9pySCobHUxkayRtlw6+lnoDnZbvuc=
+			Y30pFDk55HqP3IDz/x7K3E9GIqkT4n7DhkpBUDyGc38=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_1.13.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nq7ClDXe2T1nzRccXwR6qvNLhgQ=
+			dZERkymSEg2DQUvB55ctdfc6AA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			vW9BYq/l1WOfSJe3VLDywff+lpupes6W7t+X1g1tqMc=
+			LOIL//vwGRA93HG6LwI45L9QlfReWEW0Ak76oJ+80IU=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_1.8.1.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c7pCtQa3iyUNslaKTYNU/0Q+7y8=
+			7fZnFywTpaRTX3n41hskqr8PXMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YdtdMVvQ//4RJU4P0i937gnRTO3cvDX/HXLZ+5pn5Xk=
+			3N99yRApzSN8jg+2nkFrj9EM/DPMMDryq5MJ7kL+VcU=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_1.9.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dSyVJHm7WwVMzevpgoGnFdVqJsw=
+			a0o+1Vn0MsDtCVYRgM00Ir5xoVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GcIiDx5DHqhr6HnNmnlPC3BRsI2ps5APXdl0hHC89CQ=
+			f414xSaiJLWSQcQFCcqq1u1mEaz7Xhv1ROil+UTDKEE=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_15.2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ynCGPRVAWid9o/bQaZUIGLW8fHA=
+			g97i+8mA7CPAtL8vh0ef1nYJAFQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			4LBTZ+8LQrl6HbzHxZA1FGoLnn5Rc7DUjncOciRq9Y4=
+			p1bcjoagEQu71qzAVD3KmlgfGPyXTnXr72kf7LgvB3I=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_15.3.2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ern34GrTzJF4fpumo+t/Az7X90M=
+			xaSnP+HvLD8nyE7j5LbMF2L9Fn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gLdCtAgLdfyVl2oRL9mRxw0l8MiNQE7Go/qy2FQd3GA=
+			NbKNiGze9veQyBbB+1j9ybprmhub40hqHFFQKRuAEGo=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_15.6.0.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MH0NaV4Tm4DKc5ff3XLic+2h3WA=
+			9M5MuS7x67T+kIRIC9iaLHnUB0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			np8homcNdcOKZuJAgcWbYJUGrUdsYimAB+SImAafeNU=
+			c52OV17T72Pvu+oMYUb6XkI/RXZhk+CWL4NQU3ijp6M=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/BDDataModel_15.6.0.omo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HN4uUCcdFImmkFUFAnQnsRHrHlk=
+			7023ZKRoanZAMry0ZvhsEM2TkiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZKRMdAZKormYQmajI1mHpWLZx0RTfB1DKlaxQyqnouc=
+			ecs2r7pKbcO0BjAbnxJ3r+oAan5pJgXXl3SbTGwBWaU=
 			</data>
 		</dict>
 		<key>BDDataModel.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q2ZyQuGc26pGL5kEFz+1s0uv3LA=
+			N2MRExVaJfLAkl8K35d5ISa5qVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AoVucObv+2YCSDKLx7qt7Uu4SvOMopnsnPZH0gw+RLM=
+			IFkTczUdxcoLnOb6jkn3Q2fh242nvEBeJacOUcZgxa4=
 			</data>
 		</dict>
 		<key>BDPoint-DefaultConfiguration.plist</key>
@@ -526,22 +478,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5u/MyUoqYPBxw1pAcDywyv/ZyRQ=
+			DlEfzM1+oyG+bRbSe8Iug5ySDZ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			W0RXXDUlW2uzTuAZXgPzCyozbdSBzvEUyUTjV4IG32s=
+			lJQPdtd9pnlKBoSE5Ut6LeKYgdjUahsm/qJpOhaKh6k=
 			</data>
 		</dict>
 		<key>Headers/BDLocationManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozpMpX/w2P/NC9OgDBF4T2FBCd0=
+			PXGjum0qtQHZmRv3lOgZO2bU6Jg=
 			</data>
 			<key>hash2</key>
 			<data>
-			zQAY95oPKj6aqCr0T1xNfazWkrZ4p2BQ6s0iQ6tI9gI=
+			BBvzyRS9I/jHoeXjFk9Jovjy/S/8e/Jn77EFEC6fmpQ=
 			</data>
 		</dict>
 		<key>Headers/BDPAuthenticationStateProvider.h</key>
@@ -581,11 +533,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WArLnSNMh76+zcqgov/y/5sAEfA=
+			Y7+sZJ29/XqzRoV1IR3fANWuUFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7fWdzl5ErBVGHScpSUqWUJGys74JXMCEL/f4PZM+uDU=
+			sXZYNdyo5BYc8WIVegYbAaB2jQ3Z8ezfS9eK2SpO8Cc=
 			</data>
 		</dict>
 		<key>Headers/BDPGeometry.h</key>
@@ -603,11 +555,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aV9Scl/2ooHBVx5Ne268dNOwuZk=
+			PaF1COlC6Nn28XdYzGXriR3xkus=
 			</data>
 			<key>hash2</key>
 			<data>
-			jsyUXuwUZXhdsNYUaQh0xvezCiM8B15H1GuG54jXoaA=
+			MQx/v33bm2T+4Npk6Zr4mryjtQ1UJEJ9LmkHk81dyZk=
 			</data>
 		</dict>
 		<key>Headers/BDPMKShape.h</key>
@@ -735,11 +687,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q830nG9S6ERg+5GH+nHyVFqdSSg=
+			G1b0fdh4gnQ1vVTID7NEHiSg9Ys=
 			</data>
 			<key>hash2</key>
 			<data>
-			t1Fal9S/PbUCSrqbtJQH4Gf76Yl7OJJvOnUmh9ui4QA=
+			kCYyKmsV/l9CUQam5z1cs4husT3fCQqX+GbdeHI/+1M=
 			</data>
 		</dict>
 		<key>Headers/BDPointSDK.h</key>
@@ -790,11 +742,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KfL2c/209+IJe0RZML9ok95jQQI=
+			gCr2ngbMFojoz7D3eunZooLxsyE=
 			</data>
 			<key>hash2</key>
 			<data>
-			hQ4UtkahLksxxesbpfO8m3GyMT8VT996dFatjBCh8AU=
+			RlD7Q+hjEcU5z5TBkWrnj+fX/Zyhk6emID4a/rLco1Q=
 			</data>
 		</dict>
 		<key>Headers/BDZoneExitEvent.h</key>
@@ -830,202 +782,70 @@
 			hPGjRXlMtbDbL7n8l+GRegyIiHsFJNiJLhFkIFj9DLo=
 			</data>
 		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6AQPLT5y1XOqS5vfsuCyOSSve9w=
-			</data>
-			<key>hash2</key>
-			<data>
-			sdL8WetiAwmIcJ7UteTYQttaGe5LubaIMfkD/jSZbwE=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6AQPLT5y1XOqS5vfsuCyOSSve9w=
-			</data>
-			<key>hash2</key>
-			<data>
-			sdL8WetiAwmIcJ7UteTYQttaGe5LubaIMfkD/jSZbwE=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3Ufc4NVdbICe6ktjyGo6n3vWop8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ykx5Iet0rcB14MeDphh7PU27HkAvujMnwmAMeM1c1YM=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3Ufc4NVdbICe6ktjyGo6n3vWop8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ykx5Iet0rcB14MeDphh7PU27HkAvujMnwmAMeM1c1YM=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k80DYyxqygcmGJrcs8IS5u20K7A=
-			</data>
-			<key>hash2</key>
-			<data>
-			uu2dWIV63BRKqxZqDuZexmtfO4FdS+RZeMzpTfAymAM=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k80DYyxqygcmGJrcs8IS5u20K7A=
-			</data>
-			<key>hash2</key>
-			<data>
-			uu2dWIV63BRKqxZqDuZexmtfO4FdS+RZeMzpTfAymAM=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7SslrFrIEtTwAiaDC2jObSZkFxg=
-			</data>
-			<key>hash2</key>
-			<data>
-			P43vjAMtw4LFVPNkNyB6PRdwEJx/57uMjce4yBgcrs0=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			g87eGVNbs9TPctnLRxWZr2t3leQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Cmv9Vh1G44iajmg9A5gbOWkx7PCGjDuDR14n5Rkuxkw=
-			</data>
-		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7SslrFrIEtTwAiaDC2jObSZkFxg=
+			qwI7LpwxqjME0jQd1iUiLCypHx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			P43vjAMtw4LFVPNkNyB6PRdwEJx/57uMjce4yBgcrs0=
+			sOEYppiXV1vIY8xEXgVA4aBYko/zBvXeqeY8m1ZRV7o=
 			</data>
 		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g87eGVNbs9TPctnLRxWZr2t3leQ=
+			xTfAKBzqhxjlFy8KXmLbHYw8DQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cmv9Vh1G44iajmg9A5gbOWkx7PCGjDuDR14n5Rkuxkw=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dnChLYoRqGNpml/91Doko059gys=
-			</data>
-			<key>hash2</key>
-			<data>
-			5WWZzGcOFv0V9mlMAsf+eATF+5aVBMtkhJnAXwPvPvA=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UW0qm2WSQjcMdkDSgtgEPoxiSug=
-			</data>
-			<key>hash2</key>
-			<data>
-			ArqVSINCjxoJHxkhhyDE+jWsnM7e1JWnVMTGvNUYAWE=
+			QimQ3AZgVgwS6yHVDbwWkHV+l9gMHacRT0AXATfGMHM=
 			</data>
 		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dnChLYoRqGNpml/91Doko059gys=
+			13einfUlpCFK6H5z6jB6pwdX+y0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5WWZzGcOFv0V9mlMAsf+eATF+5aVBMtkhJnAXwPvPvA=
+			bltvEoYhMEiuC9YF4oqT4oOgvE6a0HS6fMwSstnO60k=
 			</data>
 		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UW0qm2WSQjcMdkDSgtgEPoxiSug=
+			Yom/AKa6vC1JfXF/7EqUJvWUjyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ArqVSINCjxoJHxkhhyDE+jWsnM7e1JWnVMTGvNUYAWE=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FLB8Sa7JX57/pE1NHTFdOJokuqI=
-			</data>
-			<key>hash2</key>
-			<data>
-			tySDm+4O9bQJBgPucQBD2ggUoBch4Wf4YYAqVt2kMuk=
-			</data>
-		</dict>
-		<key>Modules/BDPointSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cOkgYaBf3B6BL421XhxvBX5m+F8=
-			</data>
-			<key>hash2</key>
-			<data>
-			016kjyo2uzmsP5nFQy2qanMc6WcAnbZWOLCOa2Vl7js=
+			6LEMRE7YHnyKhc2QTL1PS4xMe1qA+iflvBkZoes9QVw=
 			</data>
 		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FLB8Sa7JX57/pE1NHTFdOJokuqI=
+			mH1SriJA0u0iGFLXcI6E3oUS5+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			tySDm+4O9bQJBgPucQBD2ggUoBch4Wf4YYAqVt2kMuk=
+			yZPwb9z8hVkKP9BraFDyacg+q4/4Ryq6O6v8crSQIeg=
 			</data>
 		</dict>
 		<key>Modules/BDPointSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cOkgYaBf3B6BL421XhxvBX5m+F8=
+			UqPOWD83dMsETXWPQavNThZ68tQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			016kjyo2uzmsP5nFQy2qanMc6WcAnbZWOLCOa2Vl7js=
+			l26iOc5oM5F+YTPxpn3i/kZcRXJ2meH29kp/dMtFcXc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+NS_ASSUME_NONNULL_BEGIN
+
 @class BDFenceInfo;
 @class BDZoneInfo;
 @class BDLocationInfo;
@@ -23,17 +25,17 @@
 /**
  * The Fence that was entered into
 */
-@property (copy,readonly) BDFenceInfo * _Nonnull fence;
+@property (copy,readonly) BDFenceInfo * fence;
 
 /**
  * The Zone that was entered into
 */
-@property (copy,readonly) BDZoneInfo * _Nonnull zone;
+@property (copy,readonly) BDZoneInfo * zone;
 
 /**
  * Location of the Zone Entry event
 */
-@property (copy,readonly) BDLocationInfo * _Nonnull location;
+@property (copy,readonly) BDLocationInfo * location;
 
 /**
  * Indicates whether the Zone is tracking for exit event
@@ -43,6 +45,8 @@
 /**
  * Custom data for the entry event
  */
-@property (readonly) NSDictionary* customData;
+@property (readonly, nullable) NSDictionary* customData;
 
 @end
+
+NS_ASSUME_NONNULL_END
